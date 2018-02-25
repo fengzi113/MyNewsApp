@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My News App</string>
+    <string name="nba">NBA</string>
+    <string name="jingji">经济</string>
+    <string name="guoji">国际</string>
+    <string name="keji">科技</string>
+    <string name="no_internet">No Internet</string>
+    <string name="no_news">No news</string>
+</resources>
